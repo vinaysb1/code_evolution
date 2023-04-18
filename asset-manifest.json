@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vinaysb1/code_evolution/static/css/main.073c9b0a.css",
+    "main.js": "/vinaysb1/code_evolution/static/js/main.5a880a82.js",
+    "static/js/787.f4c39de0.chunk.js": "/vinaysb1/code_evolution/static/js/787.f4c39de0.chunk.js",
+    "index.html": "/vinaysb1/code_evolution/index.html",
+    "main.073c9b0a.css.map": "/vinaysb1/code_evolution/static/css/main.073c9b0a.css.map",
+    "main.5a880a82.js.map": "/vinaysb1/code_evolution/static/js/main.5a880a82.js.map",
+    "787.f4c39de0.chunk.js.map": "/vinaysb1/code_evolution/static/js/787.f4c39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5a880a82.js"
+  ]
+}
