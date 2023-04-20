@@ -11,14 +11,14 @@ function NameList() {
     },
     {
       id: 2,
-      name1: "snajay",
-      age: 33,
+      name1: "sanjay",
+      age: 34,
       skill: "Node",
     },
     {
-      id: 1,
+      id: 3,
       name1: "Lakshmikanth",
-      age: 33,
+      age: 34,
       skill: "vue",
     }
   ]
